@@ -9,7 +9,7 @@ The LowerROM and ROM0 are located inside chip 40025 (40038 in the Spanish versio
 
 My idea is to be able to have 4 Lower ROMs without altering the Basic (you can do it if you want), so I will use an EEPROM W27C010 (128K), they would be programmed as:
 
-- (LwROM 1 + Basic) + (LwROM 2 + Basic) + (LwROM 3 + Basic) + (LwROM 4 + Basic)
+* (LwROM 1 + Basic) + (LwROM 2 + Basic) + (LwROM 3 + Basic) + (LwROM 4 + Basic)
 
 I have divided it into the 4 groups so that you can see it more clearly since we will access those ROMs in blocks of 32Kb.
 
@@ -19,7 +19,7 @@ The ROM7 is inside the 40015 chip that corresponds to the IC204 and is the one i
 
 My idea is to have 4 ROMs so I will use an EEPROM W27C512 (64k) and they would be programmed as:
 
-ROM7_1 + ROM7_2 + ROM7_3 + ROM7_4
+* ROM7_1 + ROM7_2 + ROM7_3 + ROM7_4
 
 # IMPORTANT:
 
