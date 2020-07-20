@@ -1,0 +1,25 @@
+Drill report for E:\PCBs\CPC\CPC_MultiROM_01\CPC_MultiROM_01.kicad_pcb
+Created on 20-07-2020 7:56:39 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'CPC_MultiROM_01-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (21 holes)
+    T2  0,80mm  0,031"  (132 holes)
+    T3  1,00mm  0,039"  (10 holes)
+    T4  2,20mm  0,087"  (2 holes)
+
+    Total plated holes count 165
+
+
+Drill file 'CPC_MultiROM_01-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
