@@ -21,7 +21,7 @@ My idea is to have 4 ROMs so I will use an EEPROM W27C512 (64k) and they would b
 
 * ROM7_1 + ROM7_2 + ROM7_3 + ROM7_4
 
-# IMPORTANT:
+# Notes:
 
 * It works for v1 and v2 revision boards but NOT on v3, you can check it on CPC6128 Motherboards
 * You have to desolder the two original ICs of the motherboard and put sockets or solder my PCB directly on the motherboard.
