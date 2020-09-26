@@ -1,4 +1,5 @@
-# Amstrad_CPC6128_Multi_ROM
+# Amstrad_CPC6128_Multi_ROM_v1.2
+
 Internal MultiROM adapter for Amstrad CPC6128
 
 With this adapter we can have 4 ROMs in the ROMs: LowerROM+Basic (ROM0) and ROM7; and switch between ROMs as desired.
