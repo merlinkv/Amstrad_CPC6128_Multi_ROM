@@ -1,9 +1,0 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"R4,R3,R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";4;"4K7";;;
-2;"SW1";"SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm";1;"SW_DIP_x04";;;
-3;"REF**,REF**";"MountingHole_2.2mm_M2_Pad_Via";2;"MountingHole_2.2mm_M2_Pad_Via";;;
-4;"J2,J1";"PinHeader_1x05_P2.54mm_Horizontal";2;"Conn_01x05";;;
-5;"U3";"DIP-28_W15.24mm";1;"27C128";;;
-6;"U4";"DIP-28_W15.24mm";1;"27C512";;;
-7;"U2";"DIP-32_W15.24mm";1;"27C010";;;
-8;"U1";"DIP-28_W15.24mm";1;"27C256";;;
